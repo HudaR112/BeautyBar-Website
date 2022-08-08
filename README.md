@@ -1,5 +1,5 @@
 # BeautyBar-Website
-It is a single-page beauty salon website using ReactJS and Bootstrap CDN. 
+It is a single-page responsive beauty salon website using ReactJS and Bootstrap CDN. This can be used as a blogging website aswell.
 
 # Beauty-Bar OverView
 <table>
